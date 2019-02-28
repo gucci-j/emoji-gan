@@ -224,6 +224,6 @@ Dataset score: 1.376090407371521, Generated score: 1.331783413887024
 
 * The result scores will be saved in `./saved_model/` as `inception_gan.csv`.
 
-## Licence
+## License
 
-[MIT Licence](./LICENCE)
+[MIT License](./LICENSE)
