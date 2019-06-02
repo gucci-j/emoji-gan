@@ -1,4 +1,4 @@
-Generating Emoji with Conditional Deep Conditional Generative Adversarial Networks
+Generating Emoji with Conditional Deep Convolutional Generative Adversarial Networks
 ===
 
 This is the implementation of ["
