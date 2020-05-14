@@ -39,6 +39,7 @@ In order to organize dataset, please do the following procedures:
     * If your EmojiOne file version is not 3.1.1, please change the second argument to the corresponding directory name.  
 
 **NOTE**: In case you encounter a trouble, please check your file path and directories. We only use 64 x 64 [px] images.
+**(UPDATE: May 14th, 2020)**: Seemingly, EmojiOne was integrated into JoyPixcels. Thus, please use the images from the JoyPixcels by changing some codes. (As you know, the number of emoji increases every year, so we can expect that there should be some errors occurred for newly added emoji when importing those files.) Unfortunately, I have not maintained this repository for a long time, and I do not have any plans to update it.
 
 ### Word Embedding File
 Our implemenatation requires the pre-trained word embedding file: [GloVe](https://nlp.stanford.edu/projects/glove/).
